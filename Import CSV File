@@ -1,5 +1,5 @@
 import pandas as pd 
 import numpy as np 
 
-dfg = df.csv("data lake.csv)
-
+cereal_df = pd.read_csv("/tmp/tmp07wuam09/data/cereal.csv")
+cereal_df2 = pd.read_csv("data/cereal.csv")
